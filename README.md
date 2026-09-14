@@ -1,4 +1,4 @@
-# Rohan Sinha
+# [Rohan Sinha](https://www.rohansinha.dev/)
 
 Computer Science student at Cornell University interested in machine learning, reinforcement learning, ML systems, and high-performance computing.
 
